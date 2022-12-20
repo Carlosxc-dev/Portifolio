@@ -1,0 +1,22 @@
+.conteiner_my{
+    height: 60vh;
+}
+
+.box{
+    height: 100%;
+}
+
+.image{
+    z-index: 100;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+.ret{
+    width: 450px;
+    height:300px ;
+    border-end-end-radius: 10px;
+    
+    
+}
