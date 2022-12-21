@@ -27,8 +27,8 @@ export default props =>
                         <h1 className="fs-5 text-primary m-2">About me</h1>
                         <h2 className="m-2">I'am Carlos henrique</h2>
                         <p className="text-secondary m-2">
-                            Tenho 24 anos , sou de Sete lagoas-MG.
-                            Estou cursando Engenharia da computação na UNIFEI. Conheci o mundo Web a um ano e desde entao venho desenvolvendo projetos para me aperfeicoar na area. 
+                            I'm 24 years old, I'm from Sete Lagoas-MG. I'm studying Computer Engineering at UNIFEI. 
+                            I got to know the Web world a year ago and since then I've been developing projects to improve myself in the area. 
                         </p>
                     </div>
                 </article>
@@ -54,26 +54,26 @@ export default props =>
                 <CardWork 
                     img={img1}
                     nome="Cordel Encantado" 
-                    text="Site criado para fins didaticos sobre posicionamentos das imagens fixed e scroo, fonts e links."
-                    link="https://carlosxc-dev.github.io/projeto_site_cordel/"
+                    text="Site created for didactic purposes about placement of fixed and scrool images, fonts and links."
+                    link="https://carlosxc-dev.github.io/projeto_site_poesia/"
                     />
                 <CardWork 
                     img={img2}
                     nome="Estrutura de dados"
-                    text="Primeiro site criado usando HTML e CSS"
+                    text="First website created using HTML and CSS"
                     link="https://carlosxc-dev.github.io/projeto_site_estruturaDados/"
                     />
                 <CardWork 
                     img={img3}
                     nome="Portifólio"
-                    text="Potifolio desenvolvido para divulgar todos os trabalhos desenvolvidos"
-                    link="https://carlosxc-dev.github.io/Portifolio-carlos/"
+                    text="Portfolio developed to publicize all the works developed"
+                    link="https://carlosxc-dev.github.io/Portifolio/"
                     />
                 <CardWork
                     img={img4}
                     nome="Calculadora"
-                    text="Projeto em react calculadora basica iphone"
-                    link="https://carlosxc-dev.github.io/build/"
+                    text="React project of a basic iphone calculator."
+                    link="https://carlosxc-dev.github.io/projeto_site_calculadora/"
                 />
             </article>
         </section>

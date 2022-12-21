@@ -21,7 +21,7 @@ export default props =>
                     <TiHtml5 style={{width: "50px", height: "50px"}}/>
                 </i>
             </div>
-            <p className="text-secondary">Desenvolvendo sites estruturados com tags semanticas para ter uma boa visibilidade nos padors de pesquisa do google.</p>
+            <p className="text-secondary">Developing sites structured with semantic tags to have good visibility in google search standards.</p>
         </article>
         
         <article className="container text-secondary m-2 rounded-2 card">
@@ -31,7 +31,7 @@ export default props =>
                     <DiCss3 style={{width: "50px", height: "50px"}}/>
                 </i>
             </div>
-            <p className="text-secondary">Para uma boa estilizada no seu site com padroes de UI e UX.</p>
+            <p className="text-secondary">For a good styling on your site with UI and UX patterns.</p>
         </article>
 
         <article className="container text-secondary m-2 rounded-2 card">
@@ -41,7 +41,7 @@ export default props =>
                     <DiSass style={{width: "50px", height: "50px"}}/>
                 </i>
             </div>
-            <p className="text-secondary">Para simplificar a escrita em CSS</p>
+            <p className="text-secondary">To simplify writing in CSS</p>
         </article>
         <article className="container text-secondary m-2 rounded-2 card">
             <div className="conteiner-card">
@@ -50,7 +50,7 @@ export default props =>
                     <FaBootstrap style={{width: "50px", height: "50px"}}/>
                 </i>
             </div>
-            <p className="text-secondary">Framework para uma maior agilidade no desenvolvimento</p>
+            <p className="text-secondary">Framework for greater agility in development</p>
         </article>
         <article className="container text-secondary m-2 rounded-2 card">
             <div className="conteiner-card">
@@ -59,7 +59,7 @@ export default props =>
                     <BsGithub style={{width: "50px", height: "50px"}}/>
                 </i>
             </div>
-            <p className="text-secondary">Para um bom versionamento e publicao e do site no github pages</p>
+            <p className="text-secondary">For good versioning and publishing of the site on github pages</p>
         </article>
         <article className="container text-secondary m-2 rounded-2 card">
             <div className="conteiner-card">
@@ -68,7 +68,7 @@ export default props =>
                     <DiReact style={{width: "50px", height: "50px"}}/>
                 </i>
             </div>
-            <p className="text-secondary">Estrutura padronizada dos codigos em js</p>
+            <p className="text-secondary">Standard structure of codes in js</p>
         </article>
         <article className="container text-secondary m-2 rounded-2 card">
             <div className="conteiner-card">
@@ -77,7 +77,7 @@ export default props =>
                     <SiJavascript style={{width: "50px", height: "50px"}}/>
                 </i>
             </div>
-            <p className="text-secondary">Gerar paginas dinamicas e integradas</p>
+            <p className="text-secondary">Generate dynamic and integrated pages</p>
         </article>
         <article className="container text-secondary m-2 rounded-2 card">
             <div className="conteiner-card">
@@ -86,7 +86,7 @@ export default props =>
                     <SiTypescript style={{width: "50px", height: "50px"}}/>
                 </i>
             </div>
-            <p className="text-secondary">Adicionar tipagem ao JS para evitar problemas de tipagem nos codigos</p>
+            <p className="text-secondary">Add typing to JS to avoid typing problems in code</p>
         </article>
         <article className="container text-secondary m-2 rounded-2 card">
             <div className="conteiner-card">
@@ -95,6 +95,6 @@ export default props =>
                     <FaPython style={{width: "50px", height: "50px"}}/>
                 </i>
             </div>
-            <p className="text-secondary">Toda a versatilidade da linguagem.</p>
+            <p className="text-secondary">All the versatility of language.</p>
         </article>
     </>
