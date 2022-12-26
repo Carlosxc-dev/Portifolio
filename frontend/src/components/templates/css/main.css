@@ -2,6 +2,10 @@
     height: 60vh;
 }
 
+.box-about{
+    width: 50%;
+}
+
 .box{
     height: 100%;
 }
@@ -11,12 +15,33 @@
     position: absolute;
     bottom: 20px;
     right: 20px;
+    max-width: 525px;
+    max-height: 300px;
 }
 
 .ret{
     width: 450px;
     height:300px ;
     border-end-end-radius: 10px;
-    
-    
+}
+
+@media(max-width: 600px){
+    .box > img{
+        display: none;
+    }
+
+    .box-about{
+        width: 100%;
+    }
+
+    .box{
+        display: none;
+    }
+
+    .linhaCont{
+        display: none;
+    }
+    article{
+        width: 100%;
+    }
 }

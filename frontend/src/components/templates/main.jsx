@@ -16,13 +16,13 @@ export default props =>
     <main className="conteiner row justify-content-center align-itens-center">
 
         {/* about me  */}
-        <section className="col-10 p-5 conteiner_my" id="about">
-            <div className="d-flex flex-row h-100">
+        <section className="col-10 p-5 conteiner d-flex justify-content-center align-items-center" id="about">
+            <div className="d-flex flex-row h-100 d-flex justify-content-center align-items-center">
                 <aside className="w-50 position-relative box">
-                    <img src={img} alt="imagem de escritorio" width={{width: "525px"}} height={"300px"} className="image rounded rounded-2 " />   
-                    <div className="border border-4 ret position-absolute bottom-0 end-0"></div>      
+                    <img src={img} alt="imagem de escritorio"  className="image rounded rounded-2 " />   
+                    <div className="border border-4 ret position-absolute bottom-0 end-0 linhaCont"></div>      
                 </aside>
-                <article className="w-50 d-flex flex-column justify-content-center align-items-start">
+                <article className="d-flex flex-column justify-content-center align-items-start box-about">
                     <div className="conteiner-fluid p-3 d-flex flex-column justify-content-evenly">
                         <h1 className="fs-5 text-primary m-2">About me</h1>
                         <h2 className="m-2">I'am Carlos henrique</h2>
@@ -54,7 +54,7 @@ export default props =>
                 <CardWork 
                     img={img1}
                     nome="Cordel Encantado" 
-                    text="Site created for didactic purposes about placement of fixed and scrool images, fonts and links."
+                    text="Created for didactic purposes about placement of fixed and scrool images."
                     link="https://carlosxc-dev.github.io/projeto_site_poesia/"
                     />
                 <CardWork 
@@ -79,8 +79,9 @@ export default props =>
         </section>
 
         {/* contact */}
-        <section className='col-10 p-5 d-flex justify-content-center' id="contact"> 
-            <article className="w-75 d-flex flex-column justify-content-center align-items-center rounded-4" style={{width: "980px", height: "277px", background: "#292C36"}}>
+        <section className='col-10 p-5 d-flex justify-content-center conteiner' id="contact"> 
+            <article className="w-75 d-flex flex-column justify-content-center align-items-center rounded-4 
+                                col-ms-2 text-center" style={{width: "980px", height: "277px", background: "#292C36"}}>
                     <h1>Have any project in mind ?</h1>
                     <a href="https://wa.me/5531995891492" target="_blank">
                         <button type="button" class="mt-3 btn btn-primary">Contact me</button>

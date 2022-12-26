@@ -5,9 +5,10 @@ export default props =>
     <nav class="navbar navbar-expand-lg navbar-dark fs-5 bg-transparent" >
         <div class="container-fluid bg-transparent">
             <a class="navbar-brand fs-1 text-light fw-semibold" href="#">CH</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            {/* <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
-            </button>
+            </button> */}
             <div class="collapse navbar-collapse flex-end flex-grow-0" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
