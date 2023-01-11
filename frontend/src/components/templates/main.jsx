@@ -57,12 +57,12 @@ export default props =>
                     text="Created for didactic purposes about placement of fixed and scrool images."
                     link="https://carlosxc-dev.github.io/projeto_site_poesia/"
                     />
-                <CardWork 
+                {/* <CardWork 
                     img={img2}
                     nome="Estrutura de dados"
                     text="First website created using HTML and CSS"
                     link="https://carlosxc-dev.github.io/projeto_site_estruturaDados/"
-                    />
+                    /> */}
                 <CardWork 
                     img={img3}
                     nome="Portifólio"

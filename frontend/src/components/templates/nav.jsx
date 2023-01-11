@@ -1,4 +1,5 @@
-import React from "react";
+import React , {useRef} from "react";
+import { Link } from "react-router-dom";
 
 
 export default props =>
@@ -25,11 +26,6 @@ export default props =>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="../../assets/CURRICULO-PROFISSIONAL.pdf" download 
-                            type="aplication/pdf"
-                        >Curriculo</a>
                     </li>
                 </ul>
             </div>
