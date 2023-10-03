@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portifolio/static/css/main.e47bc9c5.css",
-    "main.js": "/Portifolio/static/js/main.15927043.js",
+    "main.css": "/Portifolio/static/css/main.5460cef7.css",
+    "main.js": "/Portifolio/static/js/main.23076833.js",
     "static/js/787.cda612ba.chunk.js": "/Portifolio/static/js/787.cda612ba.chunk.js",
     "static/media/bg-hero.png": "/Portifolio/static/media/bg-hero.1bc3dc51c46a4185a526.png",
     "static/media/capa-cards1.svg": "/Portifolio/static/media/capa-cards1.b6a67af936859a88e3c135936f2ed7ca.svg",
@@ -10,12 +10,12 @@
     "static/media/capa-cards.svg": "/Portifolio/static/media/capa-cards.1ed7ddddab62d58ca71921955c8bc867.svg",
     "static/media/capa-cads3.svg": "/Portifolio/static/media/capa-cads3.679249f337174f96670fe7aadbd534c9.svg",
     "index.html": "/Portifolio/index.html",
-    "main.e47bc9c5.css.map": "/Portifolio/static/css/main.e47bc9c5.css.map",
-    "main.15927043.js.map": "/Portifolio/static/js/main.15927043.js.map",
+    "main.5460cef7.css.map": "/Portifolio/static/css/main.5460cef7.css.map",
+    "main.23076833.js.map": "/Portifolio/static/js/main.23076833.js.map",
     "787.cda612ba.chunk.js.map": "/Portifolio/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e47bc9c5.css",
-    "static/js/main.15927043.js"
+    "static/css/main.5460cef7.css",
+    "static/js/main.23076833.js"
   ]
 }
