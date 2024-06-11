@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portifolio/static/css/main.e47bc9c5.css",
-    "main.js": "/Portifolio/static/js/main.15927043.js",
-    "static/js/787.cda612ba.chunk.js": "/Portifolio/static/js/787.cda612ba.chunk.js",
+    "main.css": "/Portifolio/static/css/main.ce6ac3f6.css",
+    "main.js": "/Portifolio/static/js/main.e03b450f.js",
+    "static/js/453.8ab44547.chunk.js": "/Portifolio/static/js/453.8ab44547.chunk.js",
     "static/media/bg-hero.png": "/Portifolio/static/media/bg-hero.1bc3dc51c46a4185a526.png",
     "static/media/capa-cards1.svg": "/Portifolio/static/media/capa-cards1.b6a67af936859a88e3c135936f2ed7ca.svg",
     "static/media/img_about.jpg": "/Portifolio/static/media/img_about.068d1f129f472024fb40.jpg",
@@ -10,12 +10,12 @@
     "static/media/capa-cards.svg": "/Portifolio/static/media/capa-cards.1ed7ddddab62d58ca71921955c8bc867.svg",
     "static/media/capa-cads3.svg": "/Portifolio/static/media/capa-cads3.679249f337174f96670fe7aadbd534c9.svg",
     "index.html": "/Portifolio/index.html",
-    "main.e47bc9c5.css.map": "/Portifolio/static/css/main.e47bc9c5.css.map",
-    "main.15927043.js.map": "/Portifolio/static/js/main.15927043.js.map",
-    "787.cda612ba.chunk.js.map": "/Portifolio/static/js/787.cda612ba.chunk.js.map"
+    "main.ce6ac3f6.css.map": "/Portifolio/static/css/main.ce6ac3f6.css.map",
+    "main.e03b450f.js.map": "/Portifolio/static/js/main.e03b450f.js.map",
+    "453.8ab44547.chunk.js.map": "/Portifolio/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e47bc9c5.css",
-    "static/js/main.15927043.js"
+    "static/css/main.ce6ac3f6.css",
+    "static/js/main.e03b450f.js"
   ]
 }

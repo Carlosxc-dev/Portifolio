@@ -32,7 +32,7 @@ export default (props) => (
             <h1 className="fs-5 text-primary m-2">About me</h1>
             <h2 className="m-2">I'am Carlos henrique</h2>
             <p className="text-secondary m-2">
-              I'm 24 years old, I'm from Sete Lagoas-MG. I'm studying Computer
+              I'm 25 years old, I'm from Sete Lagoas-MG. I'm studying Computer
               Engineering at UNIFEI. I got to know the Web world a year ago and
               since then I've been developing projects to improve myself in the
               area.
@@ -54,7 +54,7 @@ export default (props) => (
     </section>
 
     {/* work  projetos*/}
-    <section className="conteiner col-10 p-5 justify-content-center" id="work">
+    <section className="conteiner col-9 p-5 justify-content-center" id="work">
       <h1 className="fs-5 text-primary text-center">Portifolio</h1>
       <h2 className="text-center">Latest Projects</h2>
       <article className="d-flex justify-content-start align-items-center flex-wrap ">
@@ -64,12 +64,12 @@ export default (props) => (
           text="Created for didactic purposes about placement of react js."
           link="https://mr-fitness-sage.vercel.app"
         />
-        {/* <CardWork 
-                    img={img2}
-                    nome="Estrutura de dados"
-                    text="First website created using HTML and CSS"
-                    link="https://carlosxc-dev.github.io/projeto_site_estruturaDados/"
-                    /> */}
+        <CardWork
+          img={img2}
+          nome="Projeto DDMX"
+          text="Aplication web developed for the DDMX project."
+          link="https://projeto-ddmx.vercel.app/"
+        />
         <CardWork
           img={img3}
           nome="Portifólio"
@@ -81,6 +81,24 @@ export default (props) => (
           nome="Calculadora"
           text="React project of a basic iphone calculator."
           link="https://carlosxc-dev.github.io/projeto_site_calculadora/"
+        />
+        <CardWork
+          img={img3}
+          nome="Todo List"
+          text="Project developed with react js and express to create a todo list."
+          link="https://todolist-frontend-six.vercel.app/"
+        />
+        <CardWork
+          img={img4}
+          nome="Digimon"
+          text="Project developed for didactic purposes with react js using api digimon."
+          link="https://project-digimon.vercel.app/"
+        />
+        <CardWork
+          img={img1}
+          nome="Banco de dados - Java"
+          text="Trabalho desenvolvido para a disciplina de banco de dados. Utilizando Java e Oracle."
+          link="https://github.com/Carlosxc-dev/projeto_banco_dados_java.git"
         />
       </article>
     </section>
