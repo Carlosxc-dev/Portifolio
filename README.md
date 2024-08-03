@@ -21,7 +21,7 @@
     <img src="./screen.png" alt="Image Example" width="700px">
 </p>
 
-<h2 id="started">📌 About</h2>
+<h2 id="about">📌 About</h2>
 
 Este é o meu portfólio online, onde apresento alguns dos projetos nos quais trabalhei. O portfólio foi desenvolvido utilizando tecnologias modernas como React e Bootstrap, com o objetivo de criar uma interface limpa, responsiva e de fácil navegação.
 
