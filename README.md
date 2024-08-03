@@ -35,7 +35,7 @@ Para executar o projeoto em localhost veja os passos abaixo
 
 <h3>Prerequisites</h3>
 
-Here you list all prerequisites necessary for running your project. For example:
+Pre-requesitos necessarios em sua maquina para executar o projeto:
 
 - [NodeJS](https://nodejs.org/en)
 - [Git](https://git-scm.com/downloads)
@@ -55,14 +55,17 @@ Como iniciar o projeto:
 
 ```bash
 cd Portifolio/frontend
+npm install .
 npm run start
 ```
 
+Apos os passos acima abra o navegador em http://localhost:5173/
+
 <h2 id="routes">📍 Application Routes</h2>
 
-| route                  | description             |
-| ---------------------- | ----------------------- |
-| <kbd>/Portifolio</kbd> | single page application |
+| route        | description             |
+| ------------ | ----------------------- |
+| <kbd>/</kbd> | single page application |
 
 <h2 id="colab">🤝 Collaborators</h2>
 
