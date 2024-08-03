@@ -5,9 +5,13 @@
 
 <h1 align="center" style="font-weight: bold;">Portifolio 💻</h1>
 
+<div align="center">
+
 ![react][REACT__BADGE]
 ![typescript][TYPESCRIPT__BADGE]
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
 
 <p align="center">
  <a href="#about">About</a> • 
